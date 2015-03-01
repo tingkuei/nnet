@@ -1,0 +1,5 @@
+function [accurancy] = nnet_predict(W,Data)
+layer=size(W,2)
+
+end
+
